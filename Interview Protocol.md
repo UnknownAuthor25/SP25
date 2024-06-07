@@ -32,7 +32,7 @@
    - f) Do you take measures to prevent your privacy from being collected or used?
       - i. If yes, what measures do you take? Why did you choose them?
       - ii. If not, why don't you take measures?
-      - 
+      
 4. During the attraction stage of smart tourism, did you feel the support of smart technology? 
    - a) Do you think smart technology helped you? How?
    - b) What kind of data do you think this smart technology collects to provide its functions? How were you aware of it?
